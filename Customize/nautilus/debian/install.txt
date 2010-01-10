@@ -1,0 +1,4 @@
+#pkg install list
+nautilus-gksu
+nautilus-open-terminal
+nautilus-image-converter

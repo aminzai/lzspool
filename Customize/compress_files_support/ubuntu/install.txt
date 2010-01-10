@@ -1,0 +1,6 @@
+#pkg install list
+p7zip
+rar
+unrar
+zip
+unzip
