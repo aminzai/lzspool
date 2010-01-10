@@ -1,0 +1,3 @@
+#pkg remove list
+geany
+geany-plugins
